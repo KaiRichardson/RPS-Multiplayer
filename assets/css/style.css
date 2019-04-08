@@ -103,6 +103,7 @@ body {
     color: black;
     border-radius: 20px;
     line-height: 2;
+    text-align: center;
 }
 
 #inputForm {
@@ -113,6 +114,18 @@ body {
     height: 70px;
     margin: 10px;
 }
+
+.p_avatars {
+    height: 100px;
+    margin-top: 50px;
+    margin: 20px;
+}
+
+.rps {
+    height: 70px;
+    margin: 10px;
+}
+
 
 #avatarRow {
     margin-top: 20px;
